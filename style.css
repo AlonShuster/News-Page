@@ -1,0 +1,67 @@
+
+.legoImg{
+width:100%;
+}
+.smallIcon{
+  width:100px;
+  float:left;
+  margin-right: 8px;
+}
+.rightButtons{
+position: absolute;
+right:30px;
+top:30px;
+margin-right: 3%;
+}
+.leftButton{
+  position: absolute;
+  left:30px;
+  top:30px;
+  margin-left: 3%;
+  width:50px;
+}
+.header span{
+  padding: 10px;
+}
+span:hover{
+  color: orange;
+  cursor: pointer;
+}
+.newsBlock{
+  margin: auto 6%;
+  color: grey;
+}
+.newsBlock span{
+  color: white;
+}
+.newsBlock span:hover{
+  color: orange;
+}
+.newRow{
+  background-color: #171615;
+}
+#newsHeader{
+color: orange;
+}
+.newsSubHeader{
+
+}
+hr{
+  width:50%;
+}
+.smallIconDiv{
+  margin: 6%;
+}
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button:hover{
+  cursor: pointer;
+}
